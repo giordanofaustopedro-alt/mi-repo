@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+    color: green;
+}
+
+/* For changes/highlights */
+.change,
+.update,
+.modified {
+    color: red;
+}
+
+/* Alternative: if you want red background for changes */
+.highlight {
+    background-color: red;
+    color: green;
+}
